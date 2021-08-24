@@ -1,0 +1,39 @@
+{
+  "name": "Crabrades #2524",
+  "description": "The King of Crabs has begun a campaign to make it known by all how cool crabs are. Together with 9,999 crabgrammatically generated crabrades the King is ready to fight for crabkind. Join us at https://crabrades.com/ to join the fight for the liberation of the crustacean nation! Crabkind will one day have their time in the sun again.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Claws",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "D"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Manga"
+    }
+  ],
+  "image": "ipfs://bafkreibmn5hz4kx3g3d624wpqhrnr5mkcgadgarbx3yz3u7kacbw7osaai"
+}
