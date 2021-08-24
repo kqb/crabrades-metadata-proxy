@@ -43,7 +43,9 @@ const MetadataRepo = {
             data = JSON.parse(data);
             return data;
           } catch (error) {
-            return error;
+            return {
+              error: `Token ${id} metadata not found`
+            }
           }
 
         } else {
