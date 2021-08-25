@@ -10,7 +10,7 @@
     "repository": "https://github.com/lucid-eleven/nft-metadata-api-proxy",
     "env": {
       "CONTRACT_ADDRESS": {
-        "description": "0x2Bc2cDdE126334EE46197B98165f23497a6216DA",
+        "description": "0x1786b3A6a2d875c482F2095138987e9B8424eA60",
         "required": true
       },
       "ETHEREUM_RPC_URL": {
