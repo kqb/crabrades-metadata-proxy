@@ -8,20 +8,6 @@
       "proxy"
     ],
     "repository": "https://github.com/lucid-eleven/nft-metadata-api-proxy",
-    "env": {
-      "CONTRACT_ADDRESS": {
-        "description": "0x1786b3A6a2d875c482F2095138987e9B8424eA60",
-        "required": true
-      },
-      "ETHEREUM_RPC_URL": {
-        "description": "https://eth-rinkeby.alchemyapi.io/v2/4a9WfJUZRqtWwYB0BOWBDE4JkCj7z10z",
-        "required": true
-      },
-      "SOURCE_BASE_URI": {
-        "description": "./meta",
-        "required": true
-      }
-    },
     "image": "heroku/nodejs",
     "buildpacks": [
       {
